@@ -13,8 +13,14 @@ This folder contains the following blocks:
   
 ## Installation
 From the gr-music folder or the gr-custom folder:
+
   $ mkdir build
+  
   $ cd build
+  
   $ cmake ..
+  
   $ make
+  
   $ sudo make install
+  
